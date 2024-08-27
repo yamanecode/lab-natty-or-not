@@ -16,6 +16,7 @@ para observar as histórias criadas e como reagiam às restrições.
 
 ## 🚀 Resultados
 IA #1
+
 Havia uma pequena cidade onde todos os animais tinham uma habilidade especial. Os cães eram ótimos em encontrar coisas perdidas, os pássaros sabiam prever o tempo e os gatos… bem, os gatos podiam falar.
 Um desses gatos falantes era o Sr. Whiskers. Ele tinha um bigode branco e olhos verdes brilhantes. As crianças adoravam ouvir suas histórias sobre aventuras secretas e lugares mágicos.
 Um dia, o Sr. Whiskers encontrou um mapa antigo no sótão de uma casa abandonada. O mapa levava a um tesouro escondido na floresta. Ele decidiu seguir as pistas e, com sua voz suave e melodiosa, convenceu seus amigos a acompanhá-lo.
@@ -26,6 +27,7 @@ O gato falante se tornou uma lenda na cidade. As pessoas diziam que sua voz tinh
 E assim, o gato falante e seus amigos viveram felizes para sempre.
 
 IA#2
+
 Biscoito era um gato como qualquer outro, exceto por um pequeno detalhe: ele falava! Um dia, enquanto observava sua dona preparar o jantar, soltou um sonoro "Que cheiro bom!". A dona, surpresa, não acreditou no que ouviu. Mas Biscoito repetiu, e repetiu, até que a mulher entendeu que seu gato era, de fato, um falante.
 
 Com o passar do tempo, Biscoito se tornou o confidente da família. Dava conselhos, contava piadas e até ajudava nas tarefas de casa. Um dia, durante uma tempestade, Biscoito usou sua habilidade para acalmar o cachorro da vizinhança, que estava com muito medo dos trovões. A partir daquele dia, Biscoito se tornou o herói do bairro, e todos os animais o admiravam. E assim, Biscoito viveu feliz para sempre, cercado de amor e admiração.
