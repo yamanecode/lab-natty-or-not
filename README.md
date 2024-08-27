@@ -38,5 +38,7 @@ Em uma pequena vila, vivia um gato chamado Milo, que tinha um segredo: ele podia
 
 ## 💭 Reflexão
 A IA#1 não respeitou o limite de 10 linhas dentro dos limites da própria janela, porém ao inserir neste documento, as linhas são de fato mais longas que as das outras IAs, portanto possui um total de 8 linhas.
+
 A IA#2 respeitou exatamente o limite de linhas.
+
 A IA#3 respeitou o limite de 10 linhas porém utilizou somente 7.
